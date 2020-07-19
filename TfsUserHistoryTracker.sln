@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFSDataSource", "TFSDataSource\TFSDataSource.csproj", "{57FEFB3F-FD51-4258-B0B0-1EA31A1D9DF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserHistoryTracker", "UserHistoryTracker\UserHistoryTracker.csproj", "{30A6A1E6-DA1F-4941-8970-F11EBB1335C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookDataSource", "OutlookDataSource\OutlookDataSource.csproj", "{0FD7F750-8BCE-4EDD-B8D3-3B94FE23898F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{A44D350C-1A68-4667-BC38-039A4BCAF9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FEFB3F-FD51-4258-B0B0-1EA31A1D9DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FEFB3F-FD51-4258-B0B0-1EA31A1D9DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FEFB3F-FD51-4258-B0B0-1EA31A1D9DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FEFB3F-FD51-4258-B0B0-1EA31A1D9DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A6A1E6-DA1F-4941-8970-F11EBB1335C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A6A1E6-DA1F-4941-8970-F11EBB1335C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A6A1E6-DA1F-4941-8970-F11EBB1335C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A6A1E6-DA1F-4941-8970-F11EBB1335C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD7F750-8BCE-4EDD-B8D3-3B94FE23898F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD7F750-8BCE-4EDD-B8D3-3B94FE23898F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD7F750-8BCE-4EDD-B8D3-3B94FE23898F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD7F750-8BCE-4EDD-B8D3-3B94FE23898F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44D350C-1A68-4667-BC38-039A4BCAF9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44D350C-1A68-4667-BC38-039A4BCAF9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44D350C-1A68-4667-BC38-039A4BCAF9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44D350C-1A68-4667-BC38-039A4BCAF9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67C177C0-7443-401D-A130-B48AA533A36F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.healthaxis.net:8080/tfs/hxg
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TFSDataSource\\TFSDataSource.csproj
+		SccProjectName1 = TFSDataSource
+		SccLocalPath1 = TFSDataSource
+		SccProjectUniqueName2 = UserHistoryTracker\\UserHistoryTracker.csproj
+		SccProjectName2 = UserHistoryTracker
+		SccLocalPath2 = UserHistoryTracker
+		SccProjectUniqueName3 = OutlookDataSource\\OutlookDataSource.csproj
+		SccProjectName3 = OutlookDataSource
+		SccLocalPath3 = OutlookDataSource
+		SccProjectUniqueName4 = Model\\Model.csproj
+		SccProjectName4 = Model
+		SccLocalPath4 = Model
+	EndGlobalSection
+EndGlobal
